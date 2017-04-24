@@ -9,5 +9,9 @@ LAZY -- Library of Quantum Many Body Algorithms in Simple Implementations
             expansion 
  ---------- ------------------------------ --------------------------------
  ED         Exact Diagonalisation          Markus Wallerberger
+ ---------- ------------------------------ --------------------------------
+            Hydrogen atom                  Anthony Ruth
+ ---------- ------------------------------ --------------------------------
+ VMC        Variational Monte Carlo        Shivesh A. Pathak
  ========== ============================== ================================
  
